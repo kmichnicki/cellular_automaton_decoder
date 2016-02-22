@@ -16,4 +16,4 @@ state
 5. The stored information of the quantum memory is checked for errors by 
 hypothetically decoding using the Bravyi-Haah decoder. 
 
-The cellular automaton is iterated over time until failure occurs.
+The cellular automaton is iterated over time until failure occurs, i.e. the decoded state is not what it was orignally.
